@@ -28,3 +28,16 @@ h3{
     grid-template-columns: repeat(2, 1fr);
     gap: 20px 10px; 
 }
+
+img{
+    display: block;
+    margin: auto;  
+}
+
+.sidebar p, h3, li{
+    color: rgb(147, 147, 188);
+}
+
+.sidebar a{
+    color: rgb(131, 131, 178); 
+}
