@@ -1,0 +1,30 @@
+html{
+    background-color: rgb(237, 237, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 150%;
+    margin-left: 25vh;
+    margin-right: 25vh;
+}
+
+header, .summary{
+    text-align: center;
+}
+
+p{
+    color: rgb(61, 61, 81);
+}
+
+a{
+    color: rgb(33, 33, 127);
+}
+
+h3{
+    font-weight: normal;
+    padding-top: 25px;
+}
+
+.supporting{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px 10px; 
+}
